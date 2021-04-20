@@ -9,4 +9,8 @@ Labels are:
 
 In this App we have different kind of Face emotion Image to predict.
 
-First we need to our data or we could say image. Then go for prediction
+First we need to our data or we could say image. Then go for prediction.
+
+You could see our data pattern in my colab notebook in this repositorires
+
+
