@@ -6,3 +6,7 @@ Labels are:
 4 - Sad
 5 - Surprise
 6 - Neutral
+
+In this App we have different kind of Face emotion Image to predict.
+
+First we need to our data or we could say image. Then go for prediction
