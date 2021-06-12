@@ -45,9 +45,10 @@ dataset_shape=(35887,3)
 <h1>Reference</h1>
 ❖ https://towardsdatascience.com/face-detection-recognition-and-emotion-detection-in-8-lin
 es-of-code-b2ce32d4d5de
+
 ❖ https://towardsdatascience.com/video-facial-expression-detection-with-deep-learning-appl
 ying-fast-ai-d9dcfd5bcf10
-❖ https://github.com/atulapra/Emotion-detection
+
 ❖ https://medium.com/analytics-vidhya/building-a-real-time-emotion-detector-towards-machi
 ne-with-e-q-c20b17f89220
 
